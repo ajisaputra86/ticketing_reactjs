@@ -1,0 +1,32 @@
+.link{
+  list-style: none;
+}
+
+.form-login{
+  margin: 50px;
+}
+
+.header{
+  padding-top: 40px;
+  text-align: center;
+}
+
+.div{
+  margin: 70px;
+}
+
+.table1{
+  border: 2px solid rgb(19, 238, 30);
+}
+
+.table2{
+  border: 2px solid rgb(0, 217, 255);
+  text-align: center;
+  background-color: lightblue;
+}
+
+.table3{
+  text-align: center;
+  border: 1px greenyellow;
+  background-color: white;
+}
